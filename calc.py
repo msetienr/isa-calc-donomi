@@ -1,6 +1,6 @@
 class unirCalculator:
     def __init__(self):
-        pass
+        return 0
 
     def sum(a, b):
         return a + b
