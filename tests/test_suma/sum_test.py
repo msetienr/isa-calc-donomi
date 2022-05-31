@@ -1,3 +1,4 @@
 from calc import unirCalculator as uc
 
-print(uc.sum(4,5))
+
+uc.unirCalculator.sum(4,5)
