@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# isa-calc-donomipagi v2
-=======
 # isa-calc-donomipagi v333
->>>>>>> main_domy
 
 En este repositorio se realiza un diseño de aplicación basado en TDD (Test-Driven Development).
 
