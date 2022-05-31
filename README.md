@@ -1,4 +1,4 @@
-# isa-calc-donomipagi v333
+# isa-calc-donomipagi v4
 
 En este repositorio se realiza un diseño de aplicación basado en TDD (Test-Driven Development).
 
@@ -22,17 +22,17 @@ La estructura de archivos es la siguiente:
     calc.py //Clase unirCalculator con las operaciones
     ├── tests
         ├── test_suma
-            ├── __init__.py    
+            ├── __init__.py
             ├── test_sum.py
         ├── test_multiplication
-            ├── __init__.py    
+            ├── __init__.py
             ├── test_multiply.py
         ├── test_division
-            ├── __init__.py    
+            ├── __init__.py
             ├── test_divide.py
         ├── test_raizcuadrada
-            ├── __init__.py    
+            ├── __init__.py
             ├── test_square_root.py
         ├── test_exponencial
-            ├── __init__.py    
+            ├── __init__.py
             ├── test_exp_e.py
