@@ -8,3 +8,4 @@ Ya que el lenguaje de desarrollo es **Python**, el framework con el que se reali
 
 > pip install pytest
 
+Dentro de las carpeta tests se encuentran carpetas separadas para cada una de las pruebas con su correspondiente archivo
